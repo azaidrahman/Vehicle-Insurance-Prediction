@@ -1,7 +1,11 @@
 # Insurance Customer Segmentation Project Summary
 
 ## Project Overview
-Customer segmentation model for an insurance company using PyTorch and deploy it on AWS SageMaker. The model will help predict customer interest in vehicle insurance based on various demographic and insurance-related features.
+Customer segmentation model for an insurance company using **PyTorch** and deploy it on **AWS SageMaker**. The model will help predict customer interest in vehicle insurance based on various demographic and insurance-related features.
+
+## Data Source
+
+Kaggle Dataset: [Health Insurance Cross Sell Prediction](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
 
 ## Data Description
 
